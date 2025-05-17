@@ -1,0 +1,41 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment
+.venv/
+env/
+venv/
+
+# Ignore Jupyter notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+
+# Ignore AWS credential files and SSH keys
+*.pem
+*.key
+*.crt
+
+# Ignore environment variable files
+.env
+.env.*
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore SQLite DB (if used)
+*.sqlite3
+
+# Flask specific
+instance/
+webapp.log
