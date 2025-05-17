@@ -156,13 +156,4 @@ Server will run locally at `http://127.0.0.1:5000`
 
 This project is open-sourced for educational and personal use.
 
-```
 
----
-
-### ✅ Final Checklist:
-- Add two screenshots in a folder like `screenshots/launch.png` and `screenshots/terminate.png`
-- Push everything (except `.pem` and `.env`) to GitHub
-
-Let me know if you'd like the screenshots section preformatted for markdown drag-and-drop or if you'd like help building the output-fetching part using SSM.
-```
