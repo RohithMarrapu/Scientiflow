@@ -128,13 +128,13 @@ Server will run locally at `http://127.0.0.1:5000`
 
 ### ✅ Launching an Instance via API (Postman)
 
-![Launch Screenshot](screenshots/launch.png)
+![Launch Screenshot](Launch.png)
 
 ---
 
 ### ✅ Terminating the Instance via API
 
-![Terminate Screenshot](screenshots/terminate.png)
+![Terminate Screenshot](terminate.png)
 
 ---
 
